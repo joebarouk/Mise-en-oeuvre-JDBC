@@ -5,4 +5,4 @@
 
 3- After downloading the zip file of UCanAccess, I unzipped the folder then added the jar files to the ClassPath of the project via Intellij IDEA.
 
-4- I wrote the code that makes the connection with the database.
+4- I wrote the code that makes the connection with the database on Intellij IDEA.
