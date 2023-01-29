@@ -1,4 +1,4 @@
-# JDBC-for-MS-Access
+# Mise-en-oeuvre-JDBC
 1- I created a database on MS Access and then created a simple table with 3 columns and 3 rows.
 
 2- I used UCanAccess as the JDBC Driver to make the connection between my Java app and the Access database I created.
